@@ -1,0 +1,2 @@
+# MapReduce-Engine
+Implemented a Hadoop-like MapReduce facility, with master and worker nodes for map-reduce operations over large datasets, with a distributed file system, and fault tolerance to address datanode failures along with features like job chaining, distributed cache, map and reduce side joins.
